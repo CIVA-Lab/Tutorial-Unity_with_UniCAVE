@@ -1,7 +1,5 @@
 # Tutorial-Unity_with_UniCAVE
 
-# Unity with UniCAVE
-
 # Requirements
 
 1. Unity 2019.3.5 version
